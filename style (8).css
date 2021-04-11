@@ -1,0 +1,29 @@
+.header {
+	background-color: black;
+	height:  110px;
+	border:solid 5px white;
+	text-align: center;
+}
+.header h1 {
+	color:white;
+	right: 500px;
+}
+h2{
+	color: gold;
+}
+body{
+background-image: url("https://www.anti-malware.ru/files/styles/amp_metadata_content_image_min_696px_wide/public/images/source/ya1_118.jpg?itok=h_-5SB49");
+}
+
+.header img{
+	border:solid 5px white;
+}
+.inf {
+	background-color: black;
+	color:white;
+	border: solid lime 5px;
+}
+.footer{
+	background-color: black;
+	border: lime 5px solid;
+}

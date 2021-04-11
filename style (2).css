@@ -1,0 +1,83 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.header{
+  background-color: black;
+  width: 100%;
+  height: 70px;
+  text-align: center;
+  color: white;
+  line-height: 70px;
+}
+.content{
+  background-color: grey;
+  width: 80%;
+  margin: 0 auto;
+  height: 1000px;
+  text-align: center;
+  color: white;
+  
+}
+.footer{
+  background-color: black;
+  width: 100%;
+  height: 80px;
+  text-align:center ;
+  color: white;
+  line-height: 70px;
+}
+.content img{
+ margin-left: 10px;
+ border: ridge 5px;
+ border-color: black;
+}
+p{
+  height:  1000px;
+  text-align:center;
+}
+.post {
+  display: flex;
+  border: 15px ridge;
+  border-color: white;
+}
+.box {
+border: solid 5px;
+border-color: gold;
+border-height:200000px;
+}
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQY_Qk91GAP8jwdLMhD0VhoiPDPdJzFgL1Cg&usqp=CAU");
+}
+.menu{
+  background-color: black;
+  color: white ;
+}
+.menu ul{
+  list-style: none;
+}
+.menu li {
+  display: inline-block;
+  padding: 20px 200px;
+}
+li {
+  border:ridge 5px white;
+  color :#610000;
+}
+.menu li:hover{
+  background-color: grey;
+}
+.menu ul:hover{
+  background-color: #1f1f1f;
+}
+.Main {
+color:blue;
+}
+.slider img {
+  width: 520px;
+}
+img {
+  width: 500px;
+}
+
+
